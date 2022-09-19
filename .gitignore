@@ -1,0 +1,5 @@
+/.vscode/
+**/*.user
+.idea
+/server/*/bin/
+/server/*/obj/
