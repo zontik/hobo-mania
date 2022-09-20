@@ -1,5 +1,6 @@
 /.vscode/
 **/*.user
 .idea
-/server/*/bin/
-/server/*/obj/
+/Server/*/bin/
+/Server/*/obj/
+*.Local.json
